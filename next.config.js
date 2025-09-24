@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+ // output: 'export',
   trailingSlash: true,
 
   // ⬇️ let Next process JS + CSS coming from the library
